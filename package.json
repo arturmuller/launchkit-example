@@ -1,0 +1,19 @@
+{
+  "name": "launchkit-example",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Artur Müller <me@arturmuller.com>",
+  "license": "ISC",
+  "scripts": {
+    "start": "micro",
+    "test": "exit 0",
+    "deploy": "launchkit deploy"
+  },
+  "dependencies": {
+    "micro": "^8.0.2",
+    "ramda": "^0.23.0"
+  },
+  "devDependencies": {
+    "launchkit": "^0.2.3"
+  }
+}
