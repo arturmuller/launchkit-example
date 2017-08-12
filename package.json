@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Artur Müller <me@arturmuller.com>",
   "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/arturmuller/launchkit-example.git"
+  },
   "scripts": {
     "start": "micro",
     "test": "exit 0",
